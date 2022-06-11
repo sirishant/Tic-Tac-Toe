@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Project
 Simple(-ish) Tic Tac Toe game using C++.
 
-My first complete project in C++ 
+My first complete project. 
 
 Concepts such as functions linked with external header files, strings, vectors, conditional operators, loops, etc.
 
